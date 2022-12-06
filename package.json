@@ -11,8 +11,12 @@
   "author": "Jouni Salo",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "fs": "^0.0.1-security",
+    "mongodb": "^4.12.1",
+    "mongoose": "^6.7.3",
     "morgan": "^1.10.0",
     "path": "^0.12.7"
   },
